@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # Run scripts in Atom!
 
 ![](https://f.cloud.github.com/assets/836375/2302319/b9ab8dec-a176-11e3-9073-a7d42c4fdf16.gif)
